@@ -66,8 +66,13 @@ function MainPage(){
                     </NavLink>
                 </div>
                 <div className="m-3">
-                    <h3 className="bg-blue-200 rounded-lg  mt-8  p-4 pl-12 pr-12 text-lg font-semibold text-gray-800 leading-relaxed w-full">
-                        Books2Start is a website for helping people who want to start reading but don't know where.
+                    <h3 className="bg-blue-200 rounded-lg mt-8  p-4 pl-12 pr-12 text-lg font-semibold text-gray-800 leading-relaxed">
+                        Books2Start is a website for helping people who want to start reading but don't know where. Made by   
+                            <a className="underline pl-1" href="https://x.com/egeunluu" target="_blank" rel="noopener noreferrer"> 
+                                Ege <img src="https://pbs.twimg.com/profile_images/1809922217410498561/5sf_-W_X_400x400.jpg" 
+                                    className="inline-block h-6 w-6 align-middle rounded-full"
+                                    />
+                            </a>
                     </h3>
                 </div>
             </div>
